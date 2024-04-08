@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1057908678293",
+    "project_id": "login-signup-with-fireba-a8712",
+    "storage_bucket": "login-signup-with-fireba-a8712.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057908678293:android:5218512d3e8bfe8133859c",
+        "android_client_info": {
+          "package_name": "com.example.loginandsignupwithfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYNS3RXhKk96gYEGSAv8dqdB43v6Dn_i4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
